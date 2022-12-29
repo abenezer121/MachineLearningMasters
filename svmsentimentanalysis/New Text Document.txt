@@ -1,0 +1,2 @@
+https://medium.com/@vasista/sentiment-analysis-using-svm-338d418e3ff1#:~:text=Sentiment%20Analysis%20is%20the%20NLP%20technique%20that%20performs%20on%20the,positive%2C%20negative%2C%20or%20neutral.
+https://www.kaggle.com/code/lbronchal/sentiment-analysis-with-svm
